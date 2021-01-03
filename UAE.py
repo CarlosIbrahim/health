@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 
-#st.set_page_config(layout="wide")
+st.set_page_config(layout="wide")
 
 #Read the data of the deaths between the years 2002nand the year 2008
 df2 = pd.read_csv('distribution-of-deaths-by-cause-of-death-sex-nationality-and-medical-district-2002.csv')

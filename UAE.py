@@ -97,7 +97,7 @@ hospitals = hospitals.dropna(subset=['hospitals'])
 #make the user to enter the password to show the analysis
 password = st.sidebar.text_input("Enter the password please", type="password")
 
-if password == '123456':
+if password == 'MsBa%42%':
 
     st.title('Health Care Analysis in the United Arab Emirates:')
 

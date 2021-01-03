@@ -410,3 +410,13 @@ if password == 'MsBa%42%':
 
 elif password != '123456':
     st.write('Please Enter the Correct Password from the Sidebar to display the Analysis')
+    
+    
+    
+ hide_streamlit_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_streamlit_style, unsafe_allow_html=True) 

@@ -139,7 +139,7 @@ if password == 'MsBa%42%':
 
 
                 #barplot that shows the total number of deaths
-                plt.rcParams['figure.figsize'] = [10, 8]
+                
                 death_2002_2008_total_bar=sns.barplot(x="Year", y="Value",color="Blue",data=death_2002_2008_total)
                 death_2002_2008_total_bar.set(ylim=(0, 3500))
                 death_2002_2008_total_bar.set(xlabel='Year',ylabel='Total Deaths')
@@ -164,11 +164,12 @@ if password == 'MsBa%42%':
                 death_2002_2008_total_cause=death_2002_2008.groupby(['Cause_of_Death_EN'])['Value'].sum().reset_index()
                 death_2002_2008_total_cause_top=death_2002_2008_total_cause.nlargest(x, ['Value'])
                 col3.write('In the below plot we see the number of deaths based on the top causes in all the years from 2002 to 2008.')
-                plt.rcParams['figure.figsize'] = [10, 8]
+                
                 death_2002_2008_total_cause_top_bar=sns.barplot(x='Cause_of_Death_EN', y='Value',color='Blue', data=death_2002_2008_total_cause_top)
                 death_2002_2008_total_cause_top_bar.set(xlabel='Cause of Death',ylabel='Total Deaths')
                 death_2002_2008_total_cause_top_bar.set_title('Total Number of Deaths per Cause',y=1.02)
-                plt.xticks(rotation=70)
+                
+                .xticks(rotation=70)
                 col3.pyplot()
 
 

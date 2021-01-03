@@ -1,0 +1,721 @@
+﻿Year,Emirate En,Emirate Ar,Geo Coordinates,Sector En,Sector Ar,Category En,Category Ar,Gender En,Gender Ar,Total
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Physician,طبيب,Male,ذكر,2415
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Physician,طبيب,Female,انثي,1798
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Physician,طبيب,Male,ذكر,3507
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Physician,طبيب,Female,انثي,2037
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Physician,طبيب,Male,ذكر,973
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Physician,طبيب,Female,انثي,1059
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Physician,طبيب,Male,ذكر,4366
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Physician,طبيب,Female,انثي,2805
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Physician,طبيب,Male,ذكر,446
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Physician,طبيب,Female,انثي,370
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Physician,طبيب,Male,ذكر,1106
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Physician,طبيب,Female,انثي,953
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Physician,طبيب,Male,ذكر,178
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Physician,طبيب,Female,انثي,133
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Physician,طبيب,Male,ذكر,311
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Physician,طبيب,Female,انثي,255
+2018,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Physician,طبيب,Male,ذكر,175
+2018,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Physician,طبيب,Female,انثي,70
+2018,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Physician,طبيب,Male,ذكر,17
+2018,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Physician,طبيب,Female,انثي,13
+2018,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Physician,طبيب,Male,ذكر,271
+2018,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Physician,طبيب,Female,انثي,206
+2018,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Physician,طبيب,Male,ذكر,194
+2018,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Physician,طبيب,Female,انثي,123
+2018,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Physician,طبيب,Male,ذكر,203
+2018,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Physician,طبيب,Female,انثي,145
+2018,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Physician,طبيب,Male,ذكر,141
+2018,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Physician,طبيب,Female,انثي,93
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,137
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,193
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,998
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,821
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,57
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,159
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,1038
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,1068
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,34
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,105
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,393
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,493
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,8
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,28
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,117
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,154
+2018,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,5
+2018,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,18
+2018,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,13
+2018,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,22
+2018,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,7
+2018,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,35
+2018,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,104
+2018,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,86
+2018,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,12
+2018,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,47
+2018,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,64
+2018,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,57
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Nurse,ممرض,Male,ذكر,2134
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Nurse,ممرض,Female,انثي,7910
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Nurse,ممرض,Male,ذكر,4377
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Nurse,ممرض,Female,انثي,13231
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Nurse,ممرض,Male,ذكر,832
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Nurse,ممرض,Female,انثي,4175
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Nurse,ممرض,Male,ذكر,1939
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Nurse,ممرض,Female,انثي,10728
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Nurse,ممرض,Male,ذكر,229
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Nurse,ممرض,Female,انثي,1622
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Nurse,ممرض,Male,ذكر,210
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Nurse,ممرض,Female,انثي,2772
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Nurse,ممرض,Male,ذكر,102
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Nurse,ممرض,Female,انثي,565
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Nurse,ممرض,Male,ذكر,69
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Nurse,ممرض,Female,انثي,782
+2018,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Nurse,ممرض,Male,ذكر,83
+2018,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Nurse,ممرض,Female,انثي,492
+2018,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Nurse,ممرض,Male,ذكر,2
+2018,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Nurse,ممرض,Female,انثي,60
+2018,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Nurse,ممرض,Male,ذكر,248
+2018,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Nurse,ممرض,Female,انثي,1074
+2018,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Nurse,ممرض,Male,ذكر,68
+2018,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Nurse,ممرض,Female,انثي,458
+2018,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Nurse,ممرض,Male,ذكر,69
+2018,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Nurse,ممرض,Female,انثي,563
+2018,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Nurse,ممرض,Male,ذكر,57
+2018,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Nurse,ممرض,Female,انثي,307
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Technicians,فنيون,Male,ذكر,2375
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Technicians,فنيون,Female,انثي,2395
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Technicians,فنيون,Male,ذكر,1959
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Technicians,فنيون,Female,انثي,2765
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Technicians,فنيون,Male,ذكر,1133
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Technicians,فنيون,Female,انثي,1514
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Technicians,فنيون,Male,ذكر,2615
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Technicians,فنيون,Female,انثي,3525
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Technicians,فنيون,Male,ذكر,260
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Technicians,فنيون,Female,انثي,561
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Technicians,فنيون,Male,ذكر,749
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Technicians,فنيون,Female,انثي,1087
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Technicians,فنيون,Male,ذكر,91
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Technicians,فنيون,Female,انثي,163
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Technicians,فنيون,Male,ذكر,273
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Technicians,فنيون,Female,انثي,300
+2018,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Technicians,فنيون,Male,ذكر,76
+2018,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Technicians,فنيون,Female,انثي,124
+2018,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Technicians,فنيون,Male,ذكر,193
+2018,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Technicians,فنيون,Female,انثي,57
+2018,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Technicians,فنيون,Male,ذكر,189
+2018,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Technicians,فنيون,Female,انثي,274
+2018,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Technicians,فنيون,Male,ذكر,177
+2018,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Technicians,فنيون,Female,انثي,204
+2018,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Technicians,فنيون,Male,ذكر,134
+2018,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Technicians,فنيون,Female,انثي,404
+2018,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Technicians,فنيون,Male,ذكر,136
+2018,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Technicians,فنيون,Female,انثي,143
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Physician,طبيب,Male,ذكر,2492
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Physician,طبيب,Female,انثي,1749
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Physician,طبيب,Male,ذكر,3327
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Physician,طبيب,Female,انثي,1880
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Physician,طبيب,Male,ذكر,1016
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Physician,طبيب,Female,انثي,1062
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Physician,طبيب,Male,ذكر,4308
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Physician,طبيب,Female,انثي,2704
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Physician,طبيب,Male,ذكر,387
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Physician,طبيب,Female,انثي,345
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Physician,طبيب,Male,ذكر,935
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Physician,طبيب,Female,انثي,745
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Physician,طبيب,Male,ذكر,132
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Physician,طبيب,Female,انثي,114
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Physician,طبيب,Male,ذكر,224
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Physician,طبيب,Female,انثي,172
+2017,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Physician,طبيب,Male,ذكر,163
+2017,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Physician,طبيب,Female,انثي,77
+2017,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Physician,طبيب,Male,ذكر,17
+2017,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Physician,طبيب,Female,انثي,10
+2017,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Physician,طبيب,Male,ذكر,264
+2017,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Physician,طبيب,Female,انثي,188
+2017,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Physician,طبيب,Male,ذكر,162
+2017,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Physician,طبيب,Female,انثي,95
+2017,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Physician,طبيب,Male,ذكر,199
+2017,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Physician,طبيب,Female,انثي,134
+2017,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Physician,طبيب,Male,ذكر,127
+2017,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Physician,طبيب,Female,انثي,79
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,155
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,196
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,874
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,695
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,56
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,158
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,1012
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,1060
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,29
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,87
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,320
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,361
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,8
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,29
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,87
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,106
+2017,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,6
+2017,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,18
+2017,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,9
+2017,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,13
+2017,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,7
+2017,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,32
+2017,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,80
+2017,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,57
+2017,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,14
+2017,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,46
+2017,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,54
+2017,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,42
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Nurse,ممرض,Male,ذكر,2422
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Nurse,ممرض,Female,انثي,8298
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Nurse,ممرض,Male,ذكر,4195
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Nurse,ممرض,Female,انثي,12655
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Nurse,ممرض,Male,ذكر,872
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Nurse,ممرض,Female,انثي,4232
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Nurse,ممرض,Male,ذكر,1978
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Nurse,ممرض,Female,انثي,10850
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Nurse,ممرض,Male,ذكر,218
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Nurse,ممرض,Female,انثي,1482
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Nurse,ممرض,Male,ذكر,167
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Nurse,ممرض,Female,انثي,2289
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Nurse,ممرض,Male,ذكر,80
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Nurse,ممرض,Female,انثي,527
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Nurse,ممرض,Male,ذكر,44
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Nurse,ممرض,Female,انثي,511
+2017,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Nurse,ممرض,Male,ذكر,79
+2017,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Nurse,ممرض,Female,انثي,492
+2017,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Nurse,ممرض,Male,ذكر,2
+2017,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Nurse,ممرض,Female,انثي,34
+2017,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Nurse,ممرض,Male,ذكر,200
+2017,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Nurse,ممرض,Female,انثي,951
+2017,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Nurse,ممرض,Male,ذكر,50
+2017,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Nurse,ممرض,Female,انثي,353
+2017,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Nurse,ممرض,Male,ذكر,72
+2017,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Nurse,ممرض,Female,انثي,555
+2017,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Nurse,ممرض,Male,ذكر,49
+2017,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Nurse,ممرض,Female,انثي,258
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Technicians,فنيون,Male,ذكر,2285
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Technicians,فنيون,Female,انثي,2346
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Technicians,فنيون,Male,ذكر,1798
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Technicians,فنيون,Female,انثي,2375
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Technicians,فنيون,Male,ذكر,1141
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Technicians,فنيون,Female,انثي,1485
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Technicians,فنيون,Male,ذكر,2188
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Technicians,فنيون,Female,انثي,3441
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Technicians,فنيون,Male,ذكر,270
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Technicians,فنيون,Female,انثي,540
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Technicians,فنيون,Male,ذكر,688
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Technicians,فنيون,Female,انثي,912
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Technicians,فنيون,Male,ذكر,79
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Technicians,فنيون,Female,انثي,160
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Technicians,فنيون,Male,ذكر,269
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Technicians,فنيون,Female,انثي,312
+2017,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Technicians,فنيون,Male,ذكر,84
+2017,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Technicians,فنيون,Female,انثي,130
+2017,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Technicians,فنيون,Male,ذكر,120
+2017,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Technicians,فنيون,Female,انثي,30
+2017,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Technicians,فنيون,Male,ذكر,199
+2017,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Technicians,فنيون,Female,انثي,269
+2017,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Technicians,فنيون,Male,ذكر,152
+2017,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Technicians,فنيون,Female,انثي,178
+2017,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Technicians,فنيون,Male,ذكر,151
+2017,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Technicians,فنيون,Female,انثي,401
+2017,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Technicians,فنيون,Male,ذكر,122
+2017,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Technicians,فنيون,Female,انثي,127
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Physician,طبيب,Male,ذكر,2048
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Physician,طبيب,Female,انثي,1189
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Physician,طبيب,Male,ذكر,3586
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Physician,طبيب,Female,انثي,2164
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Physician,طبيب,Male,ذكر,991
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Physician,طبيب,Female,انثي,1024
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Physician,طبيب,Male,ذكر,4373
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Physician,طبيب,Female,انثي,2801
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Physician,طبيب,Male,ذكر,343
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Physician,طبيب,Female,انثي,310
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Physician,طبيب,Male,ذكر,709
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Physician,طبيب,Female,انثي,583
+2016,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Physician,طبيب,Male,ذكر,81
+2016,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Physician,طبيب,Female,انثي,94
+2016,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Physician,طبيب,Male,ذكر,194
+2016,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Physician,طبيب,Female,انثي,153
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Physician,طبيب,Male,ذكر,145
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Physician,طبيب,Female,انثي,76
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Physician,طبيب,Male,ذكر,80
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Physician,طبيب,Female,انثي,36
+2016,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Physician,طبيب,Male,ذكر,247
+2016,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Physician,طبيب,Female,انثي,145
+2016,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Physician,طبيب,Male,ذكر,226
+2016,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Physician,طبيب,Female,انثي,105
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Physician,طبيب,Male,ذكر,194
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Physician,طبيب,Female,انثي,131
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Physician,طبيب,Male,ذكر,103
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Physician,طبيب,Female,انثي,64
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,129
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,178
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,813
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,614
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,56
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,159
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,995
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,1013
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,11
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,63
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,296
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,309
+2016,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,5
+2016,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,27
+2016,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,73
+2016,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,84
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,6
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,18
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,10
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,13
+2016,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,7
+2016,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,32
+2016,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,72
+2016,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,47
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,14
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,46
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,48
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,27
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Nurse,ممرض,Male,ذكر,1227
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Nurse,ممرض,Female,انثي,5892
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Nurse,ممرض,Male,ذكر,4904
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Nurse,ممرض,Female,انثي,12894
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Nurse,ممرض,Male,ذكر,896
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Nurse,ممرض,Female,انثي,4162
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Nurse,ممرض,Male,ذكر,2111
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Nurse,ممرض,Female,انثي,11867
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Nurse,ممرض,Male,ذكر,224
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Nurse,ممرض,Female,انثي,1391
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Nurse,ممرض,Male,ذكر,104
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Nurse,ممرض,Female,انثي,1800
+2016,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Nurse,ممرض,Male,ذكر,42
+2016,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Nurse,ممرض,Female,انثي,377
+2016,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Nurse,ممرض,Male,ذكر,47
+2016,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Nurse,ممرض,Female,انثي,441
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Nurse,ممرض,Male,ذكر,68
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Nurse,ممرض,Female,انثي,474
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Nurse,ممرض,Male,ذكر,49
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Nurse,ممرض,Female,انثي,258
+2016,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Nurse,ممرض,Male,ذكر,193
+2016,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Nurse,ممرض,Female,انثي,891
+2016,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Nurse,ممرض,Male,ذكر,130
+2016,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Nurse,ممرض,Female,انثي,491
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Nurse,ممرض,Male,ذكر,73
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Nurse,ممرض,Female,انثي,543
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Nurse,ممرض,Male,ذكر,38
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Nurse,ممرض,Female,انثي,190
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Technicians,فنيون,Male,ذكر,749
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Technicians,فنيون,Female,انثي,1642
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Technicians,فنيون,Male,ذكر,2791
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Technicians,فنيون,Female,انثي,2607
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Technicians,فنيون,Male,ذكر,1167
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Technicians,فنيون,Female,انثي,1430
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Technicians,فنيون,Male,ذكر,2429
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Technicians,فنيون,Female,انثي,3992
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Technicians,فنيون,Male,ذكر,273
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Technicians,فنيون,Female,انثي,534
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Technicians,فنيون,Male,ذكر,619
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Technicians,فنيون,Female,انثي,775
+2016,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Technicians,فنيون,Male,ذكر,69
+2016,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Technicians,فنيون,Female,انثي,145
+2016,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Technicians,فنيون,Male,ذكر,194
+2016,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Technicians,فنيون,Female,انثي,201
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Technicians,فنيون,Male,ذكر,94
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Technicians,فنيون,Female,انثي,135
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Technicians,فنيون,Male,ذكر,56
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Technicians,فنيون,Female,انثي,60
+2016,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Technicians,فنيون,Male,ذكر,170
+2016,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Technicians,فنيون,Female,انثي,243
+2016,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Technicians,فنيون,Male,ذكر,184
+2016,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Technicians,فنيون,Female,انثي,176
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Technicians,فنيون,Male,ذكر,169
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Technicians,فنيون,Female,انثي,400
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Technicians,فنيون,Male,ذكر,54
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Technicians,فنيون,Female,انثي,97
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Physician,طبيب,Male,ذكر,1875
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Physician,طبيب,Female,انثي,1364
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Physician,طبيب,Male,ذكر,3537
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Physician,طبيب,Female,انثي,1690
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Physician,طبيب,Male,ذكر,1013
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Physician,طبيب,Female,انثي,1001
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Physician,طبيب,Male,ذكر,3841
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Physician,طبيب,Female,انثي,2334
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Physician,طبيب,Male,ذكر,333
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Physician,طبيب,Female,انثي,299
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Physician,طبيب,Male,ذكر,700
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Physician,طبيب,Female,انثي,554
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Physician,طبيب,Male,ذكر,88
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Physician,طبيب,Female,انثي,91
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Physician,طبيب,Male,ذكر,179
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Physician,طبيب,Female,انثي,143
+2015,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Physician,طبيب,Male,ذكر,134
+2015,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Physician,طبيب,Female,انثي,65
+2015,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Physician,طبيب,Male,ذكر,77
+2015,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Physician,طبيب,Female,انثي,35
+2015,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Physician,طبيب,Male,ذكر,220
+2015,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Physician,طبيب,Female,انثي,148
+2015,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Physician,طبيب,Male,ذكر,195
+2015,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Physician,طبيب,Female,انثي,92
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Physician,طبيب,Male,ذكر,198
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Physician,طبيب,Female,انثي,124
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Physician,طبيب,Male,ذكر,97
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Physician,طبيب,Female,انثي,55
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,133
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,160
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,754
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,514
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,59
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,149
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,1025
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,986
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,13
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,66
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,267
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,281
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,5
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,28
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,68
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,77
+2015,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,5
+2015,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,17
+2015,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,11
+2015,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,13
+2015,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,10
+2015,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,33
+2015,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,71
+2015,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,44
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,14
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,45
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,44
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,24
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Nurse,ممرض,Male,ذكر,1243
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Nurse,ممرض,Female,انثي,6099
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Nurse,ممرض,Male,ذكر,4161
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Nurse,ممرض,Female,انثي,10232
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Nurse,ممرض,Male,ذكر,892
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Nurse,ممرض,Female,انثي,4315
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Nurse,ممرض,Male,ذكر,1687
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Nurse,ممرض,Female,انثي,9730
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Nurse,ممرض,Male,ذكر,219
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Nurse,ممرض,Female,انثي,1361
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Nurse,ممرض,Male,ذكر,97
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Nurse,ممرض,Female,انثي,1783
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Nurse,ممرض,Male,ذكر,44
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Nurse,ممرض,Female,انثي,389
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Nurse,ممرض,Male,ذكر,44
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Nurse,ممرض,Female,انثي,435
+2015,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Nurse,ممرض,Male,ذكر,72
+2015,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Nurse,ممرض,Female,انثي,501
+2015,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Nurse,ممرض,Male,ذكر,54
+2015,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Nurse,ممرض,Female,انثي,282
+2015,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Nurse,ممرض,Male,ذكر,184
+2015,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Nurse,ممرض,Female,انثي,899
+2015,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Nurse,ممرض,Male,ذكر,116
+2015,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Nurse,ممرض,Female,انثي,468
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Nurse,ممرض,Male,ذكر,72
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Nurse,ممرض,Female,انثي,542
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Nurse,ممرض,Male,ذكر,32
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Nurse,ممرض,Female,انثي,202
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Technicians,فنيون,Male,ذكر,822
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Technicians,فنيون,Female,انثي,1442
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Technicians,فنيون,Male,ذكر,2399
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Technicians,فنيون,Female,انثي,2334
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Technicians,فنيون,Male,ذكر,1142
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Technicians,فنيون,Female,انثي,1398
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Technicians,فنيون,Male,ذكر,1912
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Technicians,فنيون,Female,انثي,2920
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Technicians,فنيون,Male,ذكر,267
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Technicians,فنيون,Female,انثي,537
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Technicians,فنيون,Male,ذكر,221
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Technicians,فنيون,Female,انثي,496
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Technicians,فنيون,Male,ذكر,70
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Technicians,فنيون,Female,انثي,149
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Technicians,فنيون,Male,ذكر,49
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Technicians,فنيون,Female,انثي,138
+2015,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Technicians,فنيون,Male,ذكر,850
+2015,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Technicians,فنيون,Female,انثي,1471
+2015,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Technicians,فنيون,Male,ذكر,19
+2015,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Technicians,فنيون,Female,انثي,24
+2015,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Technicians,فنيون,Male,ذكر,204
+2015,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Technicians,فنيون,Female,انثي,248
+2015,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Technicians,فنيون,Male,ذكر,43
+2015,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Technicians,فنيون,Female,انثي,98
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Technicians,فنيون,Male,ذكر,170
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Technicians,فنيون,Female,انثي,394
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Technicians,فنيون,Male,ذكر,36
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Technicians,فنيون,Female,انثي,70
+2014,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Physician,طبيب,Male,ذكر,2378
+2014,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Physician,طبيب,Female,انثي,1611
+2014,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Physician,طبيب,Male,ذكر,2679
+2014,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Physician,طبيب,Female,انثي,1207
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Physician,طبيب,Male,ذكر,929
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Physician,طبيب,Female,انثي,941
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Physician,طبيب,Male,ذكر,3106
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Physician,طبيب,Female,انثي,1765
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Physician,طبيب,Male,ذكر,323
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Physician,طبيب,Female,انثي,291
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Physician,طبيب,Male,ذكر,794
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Physician,طبيب,Female,انثي,610
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Physician,طبيب,Male,ذكر,96
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Physician,طبيب,Female,انثي,88
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Physician,طبيب,Male,ذكر,180
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Physician,طبيب,Female,انثي,163
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Physician,طبيب,Male,ذكر,141
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Physician,طبيب,Female,انثي,62
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Physician,طبيب,Male,ذكر,14
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Physician,طبيب,Female,انثي,10
+2014,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Physician,طبيب,Male,ذكر,165
+2014,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Physician,طبيب,Female,انثي,124
+2014,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Physician,طبيب,Male,ذكر,154
+2014,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Physician,طبيب,Female,انثي,78
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Physician,طبيب,Male,ذكر,190
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Physician,طبيب,Female,انثي,114
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Physician,طبيب,Male,ذكر,109
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Physician,طبيب,Female,انثي,63
+2014,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,173
+2014,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,195
+2014,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,623
+2014,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,376
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,63
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,123
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,792
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,742
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,15
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,67
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,165
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,269
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,5
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,27
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,43
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,69
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,4
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,17
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,7
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,8
+2014,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,10
+2014,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,33
+2014,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,42
+2014,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,40
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Dentist,طبيب اسنان,Male,ذكر,14
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Dentist,طبيب اسنان,Female,انثي,41
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Dentist,طبيب اسنان,Male,ذكر,28
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Dentist,طبيب اسنان,Female,انثي,18
+2014,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Nurse,ممرض,Male,ذكر,1688
+2014,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Nurse,ممرض,Female,انثي,7120
+2014,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Nurse,ممرض,Male,ذكر,2193
+2014,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Nurse,ممرض,Female,انثي,5411
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Nurse,ممرض,Male,ذكر,801
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Nurse,ممرض,Female,انثي,3920
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Nurse,ممرض,Male,ذكر,1031
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Nurse,ممرض,Female,انثي,7607
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Nurse,ممرض,Male,ذكر,199
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Nurse,ممرض,Female,انثي,1293
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Nurse,ممرض,Male,ذكر,91
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Nurse,ممرض,Female,انثي,1652
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Nurse,ممرض,Male,ذكر,42
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Nurse,ممرض,Female,انثي,390
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Nurse,ممرض,Male,ذكر,34
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Nurse,ممرض,Female,انثي,399
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Nurse,ممرض,Male,ذكر,71
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Nurse,ممرض,Female,انثي,499
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Nurse,ممرض,Male,ذكر,3
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Nurse,ممرض,Female,انثي,23
+2014,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Nurse,ممرض,Male,ذكر,116
+2014,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Nurse,ممرض,Female,انثي,767
+2014,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Nurse,ممرض,Male,ذكر,46
+2014,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Nurse,ممرض,Female,انثي,269
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Nurse,ممرض,Male,ذكر,56
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Nurse,ممرض,Female,انثي,502
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Nurse,ممرض,Male,ذكر,34
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Nurse,ممرض,Female,انثي,221
+2014,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Technicians,فنيون,Male,ذكر,1636
+2014,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Technicians,فنيون,Female,انثي,2208
+2014,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Technicians,فنيون,Male,ذكر,1231
+2014,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Technicians,فنيون,Female,انثي,1308
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Technicians,فنيون,Male,ذكر,1062
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Technicians,فنيون,Female,انثي,1218
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Technicians,فنيون,Male,ذكر,1330
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Technicians,فنيون,Female,انثي,2884
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Technicians,فنيون,Male,ذكر,284
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Technicians,فنيون,Female,انثي,521
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Technicians,فنيون,Male,ذكر,192
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Technicians,فنيون,Female,انثي,260
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Technicians,فنيون,Male,ذكر,65
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Technicians,فنيون,Female,انثي,145
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Technicians,فنيون,Male,ذكر,38
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Technicians,فنيون,Female,انثي,58
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Technicians,فنيون,Male,ذكر,93
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Technicians,فنيون,Female,انثي,109
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Technicians,فنيون,Male,ذكر,2
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Technicians,فنيون,Female,انثي,4
+2014,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Technicians,فنيون,Male,ذكر,175
+2014,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Technicians,فنيون,Female,انثي,214
+2014,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Technicians,فنيون,Male,ذكر,41
+2014,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Technicians,فنيون,Female,انثي,51
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Technicians,فنيون,Male,ذكر,163
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Technicians,فنيون,Female,انثي,381
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Technicians,فنيون,Male,ذكر,46
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Technicians,فنيون,Female,انثي,43
+2013,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Physician,طبيب,Unkown,غير مبين,909
+2013,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Physician,طبيب,Unkown,غير مبين,2656
+2013,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Physician,طبيب,Unkown,غير مبين,79
+2013,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Physician,طبيب,Unkown,غير مبين,3605
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Physician,طبيب,Unkown,غير مبين,480
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Physician,طبيب,Unkown,غير مبين,1305
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Physician,طبيب,Unkown,غير مبين,113
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Physician,طبيب,Unkown,غير مبين,3916
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Physician,طبيب,Unkown,غير مبين,118
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Physician,طبيب,Unkown,غير مبين,445
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Physician,طبيب,Unkown,غير مبين,26
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Physician,طبيب,Unkown,غير مبين,947
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Physician,طبيب,Unkown,غير مبين,20
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Physician,طبيب,Unkown,غير مبين,157
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Physician,طبيب,Unkown,غير مبين,0
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Physician,طبيب,Unkown,غير مبين,231
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Physician,طبيب,Unkown,غير مبين,6
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Physician,طبيب,Unkown,غير مبين,111
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Physician,طبيب,Unkown,غير مبين,3
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Physician,طبيب,Unkown,غير مبين,31
+2013,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Physician,طبيب,Unkown,غير مبين,44
+2013,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Physician,طبيب,Unkown,غير مبين,220
+2013,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Physician,طبيب,Unkown,غير مبين,11
+2013,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Physician,طبيب,Unkown,غير مبين,168
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Physician,طبيب,Unkown,غير مبين,50
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Physician,طبيب,Unkown,غير مبين,249
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Physician,طبيب,Unkown,غير مبين,2
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Physician,طبيب,Unkown,غير مبين,114
+2013,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Dentist,طبيب اسنان,Unkown,غير مبين,89
+2013,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Dentist,طبيب اسنان,Unkown,غير مبين,142
+2013,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Dentist,طبيب اسنان,Unkown,غير مبين,9
+2013,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Dentist,طبيب اسنان,Unkown,غير مبين,606
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Dentist,طبيب اسنان,Unkown,غير مبين,105
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Dentist,طبيب اسنان,Unkown,غير مبين,72
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Dentist,طبيب اسنان,Unkown,غير مبين,28
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Dentist,طبيب اسنان,Unkown,غير مبين,1245
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Dentist,طبيب اسنان,Unkown,غير مبين,53
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Dentist,طبيب اسنان,Unkown,غير مبين,29
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Dentist,طبيب اسنان,Unkown,غير مبين,4
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Dentist,طبيب اسنان,Unkown,غير مبين,391
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Dentist,طبيب اسنان,Unkown,غير مبين,24
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Dentist,طبيب اسنان,Unkown,غير مبين,8
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Dentist,طبيب اسنان,Unkown,غير مبين,0
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Dentist,طبيب اسنان,Unkown,غير مبين,111
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Dentist,طبيب اسنان,Unkown,غير مبين,9
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Dentist,طبيب اسنان,Unkown,غير مبين,8
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Dentist,طبيب اسنان,Unkown,غير مبين,1
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Dentist,طبيب اسنان,Unkown,غير مبين,19
+2013,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Dentist,طبيب اسنان,Unkown,غير مبين,21
+2013,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Dentist,طبيب اسنان,Unkown,غير مبين,22
+2013,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Dentist,طبيب اسنان,Unkown,غير مبين,2
+2013,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Dentist,طبيب اسنان,Unkown,غير مبين,83
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Dentist,طبيب اسنان,Unkown,غير مبين,41
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Dentist,طبيب اسنان,Unkown,غير مبين,11
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Dentist,طبيب اسنان,Unkown,غير مبين,1
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Dentist,طبيب اسنان,Unkown,غير مبين,47
+2013,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Nurse,ممرض,Unkown,غير مبين,307
+2013,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Nurse,ممرض,Unkown,غير مبين,7288
+2013,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Nurse,ممرض,Unkown,غير مبين,10
+2013,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Nurse,ممرض,Unkown,غير مبين,6350
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Nurse,ممرض,Unkown,غير مبين,78
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Nurse,ممرض,Unkown,غير مبين,4412
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Nurse,ممرض,Unkown,غير مبين,10
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Nurse,ممرض,Unkown,غير مبين,7200
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Nurse,ممرض,Unkown,غير مبين,84
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Nurse,ممرض,Unkown,غير مبين,1244
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Nurse,ممرض,Unkown,غير مبين,0
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Nurse,ممرض,Unkown,غير مبين,1053
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Nurse,ممرض,Unkown,غير مبين,15
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Nurse,ممرض,Unkown,غير مبين,412
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Nurse,ممرض,Unkown,غير مبين,0
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Nurse,ممرض,Unkown,غير مبين,260
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Nurse,ممرض,Unkown,غير مبين,6
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Nurse,ممرض,Unkown,غير مبين,265
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Nurse,ممرض,Unkown,غير مبين,0
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Nurse,ممرض,Unkown,غير مبين,37
+2013,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Nurse,ممرض,Unkown,غير مبين,132
+2013,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Nurse,ممرض,Unkown,غير مبين,644
+2013,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Nurse,ممرض,Unkown,غير مبين,0
+2013,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Nurse,ممرض,Unkown,غير مبين,206
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Nurse,ممرض,Unkown,غير مبين,76
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Nurse,ممرض,Unkown,غير مبين,479
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Nurse,ممرض,Unkown,غير مبين,0
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Nurse,ممرض,Unkown,غير مبين,155
+2013,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Technicians,فنيون,Unkown,غير مبين,432
+2013,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Technicians,فنيون,Unkown,غير مبين,3047
+2013,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Technicians,فنيون,Unkown,غير مبين,35
+2013,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Technicians,فنيون,Unkown,غير مبين,2650
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Technicians,فنيون,Unkown,غير مبين,371
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Technicians,فنيون,Unkown,غير مبين,1864
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Technicians,فنيون,Unkown,غير مبين,23
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Technicians,فنيون,Unkown,غير مبين,3195
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Technicians,فنيون,Unkown,غير مبين,215
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Government,حكومي,Technicians,فنيون,Unkown,غير مبين,556
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Technicians,فنيون,Unkown,غير مبين,0
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Private,خاص,Technicians,فنيون,Unkown,غير مبين,908
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Technicians,فنيون,Unkown,غير مبين,61
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Government,حكومي,Technicians,فنيون,Unkown,غير مبين,146
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Technicians,فنيون,Unkown,غير مبين,0
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Private,خاص,Technicians,فنيون,Unkown,غير مبين,227
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Technicians,فنيون,Unkown,غير مبين,44
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Government,حكومي,Technicians,فنيون,Unkown,غير مبين,93
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Technicians,فنيون,Unkown,غير مبين,0
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Private,خاص,Technicians,فنيون,Unkown,غير مبين,13
+2013,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Technicians,فنيون,Unkown,غير مبين,112
+2013,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Government,حكومي,Technicians,فنيون,Unkown,غير مبين,241
+2013,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Technicians,فنيون,Unkown,غير مبين,0
+2013,Ras Al Khaima,رأس الخيمة,"25.8007° N, 55.9762° E",Private,خاص,Technicians,فنيون,Unkown,غير مبين,175
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Technicians,فنيون,Unkown,غير مبين,199
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Government,حكومي,Technicians,فنيون,Unkown,غير مبين,348
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Technicians,فنيون,Unkown,غير مبين,0
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Private,خاص,Technicians,فنيون,Unkown,غير مبين,131
+2012,Northern Emirates,الامارات الشمالية,,Government,حكومي,Physician,طبيب,Unkown,غير مبين,1351
+2012,Northern Emirates,الامارات الشمالية,,Private,خاص ,Physician,طبيب,Unkown,غير مبين,1710
+2012,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Physician,طبيب,Unkown,غير مبين,2441
+2012,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Physician,طبيب,Unkown,غير مبين,3122
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Physician,طبيب,Unkown,غير مبين,1432
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Physician,طبيب,Unkown,غير مبين,3443
+2012,Northern Emirates,الامارات الشمالية,,Government,حكومي,Dentist,طبيب اسنان,Unkown,غير مبين,252
+2012,Northern Emirates,الامارات الشمالية,,Private,خاص ,Dentist,طبيب اسنان,Unkown,غير مبين,751
+2012,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Dentist,طبيب اسنان,Unkown,غير مبين,225
+2012,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Dentist,طبيب اسنان,Unkown,غير مبين,744
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Dentist,طبيب اسنان,Unkown,غير مبين,106
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Dentist,طبيب اسنان,Unkown,غير مبين,1065
+2012,Northern Emirates,الامارات الشمالية,,Government,حكومي,Nurse,ممرض,Unkown,غير مبين,3978
+2012,Northern Emirates,الامارات الشمالية,,Private,خاص ,Nurse,ممرض,Unkown,غير مبين,1257
+2012,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Nurse,ممرض,Unkown,غير مبين,6202
+2012,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Nurse,ممرض,Unkown,غير مبين,6173
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Nurse,ممرض,Unkown,غير مبين,3794
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Nurse,ممرض,Unkown,غير مبين,6111
+2012,Northern Emirates,الامارات الشمالية,,Government,حكومي,Technicians,فنيون,Unkown,غير مبين,1848
+2012,Northern Emirates,الامارات الشمالية,,Private,خاص ,Technicians,فنيون,Unkown,غير مبين,634
+2012,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Technicians,فنيون,Unkown,غير مبين,1996
+2012,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Technicians,فنيون,Unkown,غير مبين,4316
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Technicians,فنيون,Unkown,غير مبين,1710
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Technicians,فنيون,Unkown,غير مبين,2640
+2011,Northern Emirates,الامارات الشمالية,,Government,حكومي,Physician,طبيب,Unkown,غير مبين,1300
+2011,Northern Emirates,الامارات الشمالية,,Private,خاص ,Physician,طبيب,Unkown,غير مبين,1671
+2011,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Physician,طبيب,Unkown,غير مبين,2450
+2011,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Physician,طبيب,Unkown,غير مبين,2450
+2011,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Physician,طبيب,Unkown,غير مبين,1355
+2011,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Physician,طبيب,Unkown,غير مبين,3630
+2011,Northern Emirates,الامارات الشمالية,,Government,حكومي,Dentist,طبيب اسنان,Unkown,غير مبين,243
+2011,Northern Emirates,الامارات الشمالية,,Private,خاص ,Dentist,طبيب اسنان,Unkown,غير مبين,759
+2011,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Dentist,طبيب اسنان,Unkown,غير مبين,245
+2011,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Dentist,طبيب اسنان,Unkown,غير مبين,619
+2011,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Dentist,طبيب اسنان,Unkown,غير مبين,118
+2011,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Dentist,طبيب اسنان,Unkown,غير مبين,1016
+2011,Northern Emirates,الامارات الشمالية,,Government,حكومي,Nurse,ممرض,Unkown,غير مبين,3859
+2011,Northern Emirates,الامارات الشمالية,,Private,خاص ,Nurse,ممرض,Unkown,غير مبين,1950
+2011,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Nurse,ممرض,Unkown,غير مبين,5965
+2011,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Nurse,ممرض,Unkown,غير مبين,4539
+2011,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Nurse,ممرض,Unkown,غير مبين,3730
+2011,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Nurse,ممرض,Unkown,غير مبين,5507
+2011,Northern Emirates,الامارات الشمالية,,Government,حكومي,Technicians,فنيون,Unkown,غير مبين,1802
+2011,Northern Emirates,الامارات الشمالية,,Private,خاص ,Technicians,فنيون,Unkown,غير مبين,N/A
+2011,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Government,حكومي,Technicians,فنيون,Unkown,غير مبين,2032
+2011,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Private,خاص,Technicians,فنيون,Unkown,غير مبين,3616
+2011,Dubai,دبي,"25.2048° N, 55.2708° E",Government,حكومي,Technicians,فنيون,Unkown,غير مبين,1577
+2011,Dubai,دبي,"25.2048° N, 55.2708° E",Private,خاص,Technicians,فنيون,Unkown,غير مبين,2492

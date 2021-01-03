@@ -1,0 +1,341 @@
+﻿Year,Region_AR,Region_EN,Birth_Status_AR,Birth_Status_EN,Nationality_AR,Nationality_EN,Delivery_Condition_AR,Delivery_Condition_EN,Delivery_Method_AR,Delivery_Method_EN,Births
+2003,أبو ظبي,Abu Dhabi,المواليد لأحياء,Livebirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,802
+2003,أبو ظبي,Abu Dhabi,المواليد لأحياء,Livebirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,6
+2003,أبو ظبي,Abu Dhabi,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,7
+2003,أبو ظبي,Abu Dhabi,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,8
+2003,أبو ظبي,Abu Dhabi,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,9
+2003,أبو ظبي,Abu Dhabi,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,10
+2003,أبو ظبي,Abu Dhabi,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,11
+2003,أبو ظبي,Abu Dhabi,المواليد لأحياء,Livebirth,مواطن,Citizen,الجملة,Total,الجملة,Total,12
+2003,أبو ظبي,Abu Dhabi,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,13
+2003,أبو ظبي,Abu Dhabi,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,14
+2003,أبو ظبي,Abu Dhabi,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,15
+2003,أبو ظبي,Abu Dhabi,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,16
+2003,أبو ظبي,Abu Dhabi,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,17
+2003,أبو ظبي,Abu Dhabi,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,18
+2003,أبو ظبي,Abu Dhabi,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,19
+2003,أبو ظبي,Abu Dhabi,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,الجملة,Total,الجملة,Total,20
+2003,أبو ظبي,Abu Dhabi,المواليد لأحياء,Livebirth,الجملة,Total,الجملة,Total,الجملة,Total,21
+2003,أبو ظبي,Abu Dhabi,ولادة جنين ميت,Stillbirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,5
+2003,أبو ظبي,Abu Dhabi,ولادة جنين ميت,Stillbirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,2
+2003,أبو ظبي,Abu Dhabi,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vac Extraction,0
+2003,أبو ظبي,Abu Dhabi,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,0
+2003,أبو ظبي,Abu Dhabi,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,3
+2003,أبو ظبي,Abu Dhabi,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,0
+2003,أبو ظبي,Abu Dhabi,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,0
+2003,أبو ظبي,Abu Dhabi,ولادة جنين ميت,Stillbirth,مواطن,Citizen,-,-,الجملة,Total,10
+2003,أبو ظبي,Abu Dhabi,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,7
+2003,أبو ظبي,Abu Dhabi,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,2
+2003,أبو ظبي,Abu Dhabi,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,0
+2003,أبو ظبي,Abu Dhabi,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,0
+2003,أبو ظبي,Abu Dhabi,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,2
+2003,أبو ظبي,Abu Dhabi,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,1
+2003,أبو ظبي,Abu Dhabi,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,0
+2003,أبو ظبي,Abu Dhabi,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,الجملة,Total,الجملة,Total,12
+2003,أبو ظبي,Abu Dhabi,ولادة جنين ميت,Stillbirth,الجملة,Total,الجملة,Total,الجملة,Total,22
+2003,المنطقة الغربية,Western Region,المواليد لأحياء,Livebirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,325
+2003,المنطقة الغربية,Western Region,المواليد لأحياء,Livebirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,1
+2003,المنطقة الغربية,Western Region,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,803
+2003,المنطقة الغربية,Western Region,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,6
+2003,المنطقة الغربية,Western Region,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,7
+2003,المنطقة الغربية,Western Region,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,8
+2003,المنطقة الغربية,Western Region,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,9
+2003,المنطقة الغربية,Western Region,المواليد لأحياء,Livebirth,مواطن,Citizen,الجملة,Total,الجملة,Total,10
+2003,المنطقة الغربية,Western Region,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,11
+2003,المنطقة الغربية,Western Region,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,12
+2003,المنطقة الغربية,Western Region,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,13
+2003,المنطقة الغربية,Western Region,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,14
+2003,المنطقة الغربية,Western Region,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,15
+2003,المنطقة الغربية,Western Region,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,16
+2003,المنطقة الغربية,Western Region,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,17
+2003,المنطقة الغربية,Western Region,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,الجملة,Total,الجملة,Total,18
+2003,المنطقة الغربية,Western Region,المواليد لأحياء,Livebirth,الجملة,Total,الجملة,Total,الجملة,Total,19
+2003,المنطقة الغربية,Western Region,ولادة جنين ميت,Stillbirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,20
+2003,المنطقة الغربية,Western Region,ولادة جنين ميت,Stillbirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,21
+2003,المنطقة الغربية,Western Region,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vac Extraction,5
+2003,المنطقة الغربية,Western Region,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,2
+2003,المنطقة الغربية,Western Region,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,0
+2003,المنطقة الغربية,Western Region,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,0
+2003,المنطقة الغربية,Western Region,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,3
+2003,المنطقة الغربية,Western Region,ولادة جنين ميت,Stillbirth,مواطن,Citizen,-,-,الجملة,Total,0
+2003,المنطقة الغربية,Western Region,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,0
+2003,المنطقة الغربية,Western Region,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,10
+2003,المنطقة الغربية,Western Region,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,7
+2003,المنطقة الغربية,Western Region,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,2
+2003,المنطقة الغربية,Western Region,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,0
+2003,المنطقة الغربية,Western Region,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,0
+2003,المنطقة الغربية,Western Region,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,2
+2003,المنطقة الغربية,Western Region,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,الجملة,Total,الجملة,Total,1
+2003,المنطقة الغربية,Western Region,ولادة جنين ميت,Stillbirth,الجملة,Total,الجملة,Total,الجملة,Total,0
+2003,العين,Al Ain,المواليد لأحياء,Livebirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,803
+2003,العين,Al Ain,المواليد لأحياء,Livebirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,6
+2003,العين,Al Ain,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,7
+2003,العين,Al Ain,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,8
+2003,العين,Al Ain,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,9
+2003,العين,Al Ain,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,10
+2003,العين,Al Ain,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,11
+2003,العين,Al Ain,المواليد لأحياء,Livebirth,مواطن,Citizen,الجملة,Total,الجملة,Total,12
+2003,العين,Al Ain,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,13
+2003,العين,Al Ain,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,14
+2003,العين,Al Ain,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,15
+2003,العين,Al Ain,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,16
+2003,العين,Al Ain,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,17
+2003,العين,Al Ain,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,18
+2003,العين,Al Ain,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,19
+2003,العين,Al Ain,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,الجملة,Total,الجملة,Total,20
+2003,العين,Al Ain,المواليد لأحياء,Livebirth,الجملة,Total,الجملة,Total,الجملة,Total,21
+2003,العين,Al Ain,ولادة جنين ميت,Stillbirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,5
+2003,العين,Al Ain,ولادة جنين ميت,Stillbirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,2
+2003,العين,Al Ain,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vac Extraction,0
+2003,العين,Al Ain,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,0
+2003,العين,Al Ain,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,3
+2003,العين,Al Ain,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,0
+2003,العين,Al Ain,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,0
+2003,العين,Al Ain,ولادة جنين ميت,Stillbirth,مواطن,Citizen,-,-,الجملة,Total,10
+2003,العين,Al Ain,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,7
+2003,العين,Al Ain,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,2
+2003,العين,Al Ain,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,0
+2003,العين,Al Ain,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,0
+2003,العين,Al Ain,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,2
+2003,العين,Al Ain,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,1
+2003,العين,Al Ain,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,0
+2003,العين,Al Ain,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,الجملة,Total,الجملة,Total,12
+2003,العين,Al Ain,ولادة جنين ميت,Stillbirth,الجملة,Total,الجملة,Total,الجملة,Total,22
+2003,دبي,Dubai,المواليد لأحياء,Livebirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,325
+2003,دبي,Dubai,المواليد لأحياء,Livebirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,1
+2003,دبي,Dubai,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,804
+2003,دبي,Dubai,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,6
+2003,دبي,Dubai,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,7
+2003,دبي,Dubai,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,8
+2003,دبي,Dubai,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,9
+2003,دبي,Dubai,المواليد لأحياء,Livebirth,مواطن,Citizen,الجملة,Total,الجملة,Total,10
+2003,دبي,Dubai,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,11
+2003,دبي,Dubai,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,12
+2003,دبي,Dubai,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,13
+2003,دبي,Dubai,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,14
+2003,دبي,Dubai,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,15
+2003,دبي,Dubai,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,16
+2003,دبي,Dubai,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,17
+2003,دبي,Dubai,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,الجملة,Total,الجملة,Total,18
+2003,دبي,Dubai,المواليد لأحياء,Livebirth,الجملة,Total,الجملة,Total,الجملة,Total,19
+2003,دبي,Dubai,ولادة جنين ميت,Stillbirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,20
+2003,دبي,Dubai,ولادة جنين ميت,Stillbirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,21
+2003,دبي,Dubai,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vac Extraction,5
+2003,دبي,Dubai,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,2
+2003,دبي,Dubai,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,0
+2003,دبي,Dubai,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,0
+2003,دبي,Dubai,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,3
+2003,دبي,Dubai,ولادة جنين ميت,Stillbirth,مواطن,Citizen,-,-,الجملة,Total,0
+2003,دبي,Dubai,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,0
+2003,دبي,Dubai,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,10
+2003,دبي,Dubai,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,7
+2003,دبي,Dubai,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,2
+2003,دبي,Dubai,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,0
+2003,دبي,Dubai,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,0
+2003,دبي,Dubai,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,2
+2003,دبي,Dubai,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,الجملة,Total,الجملة,Total,1
+2003,دبي,Dubai,ولادة جنين ميت,Stillbirth,الجملة,Total,الجملة,Total,الجملة,Total,0
+2003,الشارقة,Sharjah,المواليد لأحياء,Livebirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,804
+2003,الشارقة,Sharjah,المواليد لأحياء,Livebirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,6
+2003,الشارقة,Sharjah,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,7
+2003,الشارقة,Sharjah,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,8
+2003,الشارقة,Sharjah,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,9
+2003,الشارقة,Sharjah,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,10
+2003,الشارقة,Sharjah,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,11
+2003,الشارقة,Sharjah,المواليد لأحياء,Livebirth,مواطن,Citizen,الجملة,Total,الجملة,Total,12
+2003,الشارقة,Sharjah,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,13
+2003,الشارقة,Sharjah,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,14
+2003,الشارقة,Sharjah,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,15
+2003,الشارقة,Sharjah,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,16
+2003,الشارقة,Sharjah,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,17
+2003,الشارقة,Sharjah,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,18
+2003,الشارقة,Sharjah,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,19
+2003,الشارقة,Sharjah,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,الجملة,Total,الجملة,Total,20
+2003,الشارقة,Sharjah,المواليد لأحياء,Livebirth,الجملة,Total,الجملة,Total,الجملة,Total,21
+2003,الشارقة,Sharjah,ولادة جنين ميت,Stillbirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,5
+2003,الشارقة,Sharjah,ولادة جنين ميت,Stillbirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,2
+2003,الشارقة,Sharjah,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vac Extraction,0
+2003,الشارقة,Sharjah,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,0
+2003,الشارقة,Sharjah,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,3
+2003,الشارقة,Sharjah,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,0
+2003,الشارقة,Sharjah,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,0
+2003,الشارقة,Sharjah,ولادة جنين ميت,Stillbirth,مواطن,Citizen,-,-,الجملة,Total,10
+2003,الشارقة,Sharjah,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,7
+2003,الشارقة,Sharjah,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,2
+2003,الشارقة,Sharjah,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,0
+2003,الشارقة,Sharjah,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,0
+2003,الشارقة,Sharjah,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,2
+2003,الشارقة,Sharjah,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,1
+2003,الشارقة,Sharjah,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,0
+2003,الشارقة,Sharjah,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,الجملة,Total,الجملة,Total,12
+2003,الشارقة,Sharjah,ولادة جنين ميت,Stillbirth,الجملة,Total,الجملة,Total,الجملة,Total,22
+2003,عجمان,Ajman,المواليد لأحياء,Livebirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,325
+2003,عجمان,Ajman,المواليد لأحياء,Livebirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,1
+2003,عجمان,Ajman,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,805
+2003,عجمان,Ajman,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,6
+2003,عجمان,Ajman,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,7
+2003,عجمان,Ajman,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,8
+2003,عجمان,Ajman,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,9
+2003,عجمان,Ajman,المواليد لأحياء,Livebirth,مواطن,Citizen,الجملة,Total,الجملة,Total,10
+2003,عجمان,Ajman,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,11
+2003,عجمان,Ajman,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,12
+2003,عجمان,Ajman,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,13
+2003,عجمان,Ajman,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,14
+2003,عجمان,Ajman,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,15
+2003,عجمان,Ajman,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,16
+2003,عجمان,Ajman,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,17
+2003,عجمان,Ajman,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,الجملة,Total,الجملة,Total,18
+2003,عجمان,Ajman,المواليد لأحياء,Livebirth,الجملة,Total,الجملة,Total,الجملة,Total,19
+2003,عجمان,Ajman,ولادة جنين ميت,Stillbirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,20
+2003,عجمان,Ajman,ولادة جنين ميت,Stillbirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,21
+2003,عجمان,Ajman,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vac Extraction,5
+2003,عجمان,Ajman,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,2
+2003,عجمان,Ajman,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,0
+2003,عجمان,Ajman,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,0
+2003,عجمان,Ajman,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,3
+2003,عجمان,Ajman,ولادة جنين ميت,Stillbirth,مواطن,Citizen,-,-,الجملة,Total,0
+2003,عجمان,Ajman,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,0
+2003,عجمان,Ajman,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,10
+2003,عجمان,Ajman,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,7
+2003,عجمان,Ajman,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,2
+2003,عجمان,Ajman,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,0
+2003,عجمان,Ajman,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,0
+2003,عجمان,Ajman,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,2
+2003,عجمان,Ajman,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,الجملة,Total,الجملة,Total,1
+2003,عجمان,Ajman,ولادة جنين ميت,Stillbirth,الجملة,Total,الجملة,Total,الجملة,Total,0
+2003,أم القيوين,U.A.Q.,المواليد لأحياء,Livebirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,805
+2003,أم القيوين,U.A.Q.,المواليد لأحياء,Livebirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,6
+2003,أم القيوين,U.A.Q.,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,7
+2003,أم القيوين,U.A.Q.,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,8
+2003,أم القيوين,U.A.Q.,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,9
+2003,أم القيوين,U.A.Q.,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,10
+2003,أم القيوين,U.A.Q.,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,11
+2003,أم القيوين,U.A.Q.,المواليد لأحياء,Livebirth,مواطن,Citizen,الجملة,Total,الجملة,Total,12
+2003,أم القيوين,U.A.Q.,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,13
+2003,أم القيوين,U.A.Q.,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,14
+2003,أم القيوين,U.A.Q.,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,15
+2003,أم القيوين,U.A.Q.,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,16
+2003,أم القيوين,U.A.Q.,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,17
+2003,أم القيوين,U.A.Q.,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,18
+2003,أم القيوين,U.A.Q.,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,19
+2003,أم القيوين,U.A.Q.,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,الجملة,Total,الجملة,Total,20
+2003,أم القيوين,U.A.Q.,المواليد لأحياء,Livebirth,الجملة,Total,الجملة,Total,الجملة,Total,21
+2003,أم القيوين,U.A.Q.,ولادة جنين ميت,Stillbirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,5
+2003,أم القيوين,U.A.Q.,ولادة جنين ميت,Stillbirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,2
+2003,أم القيوين,U.A.Q.,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vac Extraction,0
+2003,أم القيوين,U.A.Q.,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,0
+2003,أم القيوين,U.A.Q.,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,3
+2003,أم القيوين,U.A.Q.,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,0
+2003,أم القيوين,U.A.Q.,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,0
+2003,أم القيوين,U.A.Q.,ولادة جنين ميت,Stillbirth,مواطن,Citizen,-,-,الجملة,Total,10
+2003,أم القيوين,U.A.Q.,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,7
+2003,أم القيوين,U.A.Q.,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,2
+2003,أم القيوين,U.A.Q.,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,0
+2003,أم القيوين,U.A.Q.,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,0
+2003,أم القيوين,U.A.Q.,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,2
+2003,أم القيوين,U.A.Q.,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,1
+2003,أم القيوين,U.A.Q.,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,0
+2003,أم القيوين,U.A.Q.,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,الجملة,Total,الجملة,Total,12
+2003,أم القيوين,U.A.Q.,ولادة جنين ميت,Stillbirth,الجملة,Total,الجملة,Total,الجملة,Total,22
+2003,رأس الخيمة,R.A.K.,المواليد لأحياء,Livebirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,325
+2003,رأس الخيمة,R.A.K.,المواليد لأحياء,Livebirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,1
+2003,رأس الخيمة,R.A.K.,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,806
+2003,رأس الخيمة,R.A.K.,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,6
+2003,رأس الخيمة,R.A.K.,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,7
+2003,رأس الخيمة,R.A.K.,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,8
+2003,رأس الخيمة,R.A.K.,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,9
+2003,رأس الخيمة,R.A.K.,المواليد لأحياء,Livebirth,مواطن,Citizen,الجملة,Total,الجملة,Total,10
+2003,رأس الخيمة,R.A.K.,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,11
+2003,رأس الخيمة,R.A.K.,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,12
+2003,رأس الخيمة,R.A.K.,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,13
+2003,رأس الخيمة,R.A.K.,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,14
+2003,رأس الخيمة,R.A.K.,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,15
+2003,رأس الخيمة,R.A.K.,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,16
+2003,رأس الخيمة,R.A.K.,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,17
+2003,رأس الخيمة,R.A.K.,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,الجملة,Total,الجملة,Total,18
+2003,رأس الخيمة,R.A.K.,المواليد لأحياء,Livebirth,الجملة,Total,الجملة,Total,الجملة,Total,19
+2003,رأس الخيمة,R.A.K.,ولادة جنين ميت,Stillbirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,20
+2003,رأس الخيمة,R.A.K.,ولادة جنين ميت,Stillbirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,21
+2003,رأس الخيمة,R.A.K.,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vac Extraction,5
+2003,رأس الخيمة,R.A.K.,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,2
+2003,رأس الخيمة,R.A.K.,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,0
+2003,رأس الخيمة,R.A.K.,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,0
+2003,رأس الخيمة,R.A.K.,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,3
+2003,رأس الخيمة,R.A.K.,ولادة جنين ميت,Stillbirth,مواطن,Citizen,-,-,الجملة,Total,0
+2003,رأس الخيمة,R.A.K.,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,0
+2003,رأس الخيمة,R.A.K.,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,10
+2003,رأس الخيمة,R.A.K.,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,7
+2003,رأس الخيمة,R.A.K.,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,2
+2003,رأس الخيمة,R.A.K.,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,0
+2003,رأس الخيمة,R.A.K.,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,0
+2003,رأس الخيمة,R.A.K.,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,2
+2003,رأس الخيمة,R.A.K.,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,الجملة,Total,الجملة,Total,1
+2003,رأس الخيمة,R.A.K.,ولادة جنين ميت,Stillbirth,الجملة,Total,الجملة,Total,الجملة,Total,0
+2003,الفجيرة,Fujairah,المواليد لأحياء,Livebirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,806
+2003,الفجيرة,Fujairah,المواليد لأحياء,Livebirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,6
+2003,الفجيرة,Fujairah,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,7
+2003,الفجيرة,Fujairah,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,8
+2003,الفجيرة,Fujairah,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,9
+2003,الفجيرة,Fujairah,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,10
+2003,الفجيرة,Fujairah,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,11
+2003,الفجيرة,Fujairah,المواليد لأحياء,Livebirth,مواطن,Citizen,الجملة,Total,الجملة,Total,12
+2003,الفجيرة,Fujairah,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,13
+2003,الفجيرة,Fujairah,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,14
+2003,الفجيرة,Fujairah,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,15
+2003,الفجيرة,Fujairah,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,16
+2003,الفجيرة,Fujairah,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,17
+2003,الفجيرة,Fujairah,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,18
+2003,الفجيرة,Fujairah,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,19
+2003,الفجيرة,Fujairah,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,الجملة,Total,الجملة,Total,20
+2003,الفجيرة,Fujairah,المواليد لأحياء,Livebirth,الجملة,Total,الجملة,Total,الجملة,Total,21
+2003,الفجيرة,Fujairah,ولادة جنين ميت,Stillbirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,5
+2003,الفجيرة,Fujairah,ولادة جنين ميت,Stillbirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,2
+2003,الفجيرة,Fujairah,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vac Extraction,0
+2003,الفجيرة,Fujairah,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,0
+2003,الفجيرة,Fujairah,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,3
+2003,الفجيرة,Fujairah,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,0
+2003,الفجيرة,Fujairah,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,0
+2003,الفجيرة,Fujairah,ولادة جنين ميت,Stillbirth,مواطن,Citizen,-,-,الجملة,Total,10
+2003,الفجيرة,Fujairah,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,7
+2003,الفجيرة,Fujairah,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,2
+2003,الفجيرة,Fujairah,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,0
+2003,الفجيرة,Fujairah,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,0
+2003,الفجيرة,Fujairah,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,2
+2003,الفجيرة,Fujairah,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,1
+2003,الفجيرة,Fujairah,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,0
+2003,الفجيرة,Fujairah,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,الجملة,Total,الجملة,Total,12
+2003,الفجيرة,Fujairah,ولادة جنين ميت,Stillbirth,الجملة,Total,الجملة,Total,الجملة,Total,22
+2003,الجملة,Total,المواليد لأحياء,Livebirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,325
+2003,الجملة,Total,المواليد لأحياء,Livebirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,1
+2003,الجملة,Total,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,807
+2003,الجملة,Total,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,6
+2003,الجملة,Total,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,7
+2003,الجملة,Total,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,8
+2003,الجملة,Total,المواليد لأحياء,Livebirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,9
+2003,الجملة,Total,المواليد لأحياء,Livebirth,مواطن,Citizen,الجملة,Total,الجملة,Total,10
+2003,الجملة,Total,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,11
+2003,الجملة,Total,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,12
+2003,الجملة,Total,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,13
+2003,الجملة,Total,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,14
+2003,الجملة,Total,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,15
+2003,الجملة,Total,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,16
+2003,الجملة,Total,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,17
+2003,الجملة,Total,المواليد لأحياء,Livebirth,غیر مواطن,Non-Citizen,الجملة,Total,الجملة,Total,18
+2003,الجملة,Total,المواليد لأحياء,Livebirth,الجملة,Total,الجملة,Total,الجملة,Total,19
+2003,الجملة,Total,ولادة جنين ميت,Stillbirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,20
+2003,الجملة,Total,ولادة جنين ميت,Stillbirth,مواطن,Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,21
+2003,الجملة,Total,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vac Extraction,5
+2003,الجملة,Total,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,2
+2003,الجملة,Total,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,0
+2003,الجملة,Total,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,0
+2003,الجملة,Total,ولادة جنين ميت,Stillbirth,مواطن,Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,3
+2003,الجملة,Total,ولادة جنين ميت,Stillbirth,مواطن,Citizen,-,-,الجملة,Total,0
+2003,الجملة,Total,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,راســـــي,Vertex,0
+2003,الجملة,Total,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,طبیعیـــــــــة,Spontaneous,مقعـــــــدة,Breech,10
+2003,الجملة,Total,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,شفـــــــــــــط,Vacuum Extraction,7
+2003,الجملة,Total,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,جفـــــــــــــت,Forceps,2
+2003,الجملة,Total,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,قیصــــــــريـة,Caesarean,0
+2003,الجملة,Total,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اخـــــــــــــري,Other,0
+2003,الجملة,Total,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,بتدخــــــــــل,Assisted,اكثر من طريقـة,More than One Method,2
+2003,الجملة,Total,ولادة جنين ميت,Stillbirth,غیر مواطن,Non-Citizen,الجملة,Total,الجملة,Total,1
+2003,الجملة,Total,ولادة جنين ميت,Stillbirth,الجملة,Total,الجملة,Total,الجملة,Total,0

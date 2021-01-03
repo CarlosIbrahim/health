@@ -1,0 +1,760 @@
+﻿Year,Emirate En,Emirate Ar,Geo Coordinates,Cause Of Death En,Cause Of Death Ar,Nationality Group En,Nationality Group Ar,Gender En,Gender Ar,Total Deaths
+2011,Ajman,عجمان,"25.4052° N, 55.5136° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Female,انثي,1
+2011,Ajman,عجمان,"25.4052° N, 55.5136° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,1
+2011,Ajman,عجمان,"25.4052° N, 55.5136° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,1
+2011,Ajman,عجمان,"25.4052° N, 55.5136° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,2
+2011,Ajman,عجمان,"25.4052° N, 55.5136° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,1
+2011,Ajman,عجمان,"25.4052° N, 55.5136° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,1
+2011,Ajman,عجمان,"25.4052° N, 55.5136° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,4
+2011,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,1
+2011,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,4
+2011,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,5
+2011,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,4
+2011,Ajman,عجمان,"25.4052° N, 55.5136° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,1
+2011,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,3
+2011,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Female,انثي,3
+2011,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,1
+2011,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,1
+2011,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,4
+2011,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,3
+2011,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,3
+2011,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,2
+2011,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Male,ذكر,1
+2011,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Expat,وافد,Male,ذكر,1
+2011,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,9
+2011,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,2
+2011,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,9
+2011,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,2
+2011,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,2
+2011,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,7
+2011,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Citizen,مواطن,Female,انثي,3
+2011,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Expat,وافد,Female,انثي,1
+2011,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,27
+2011,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,11
+2011,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,31
+2011,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,15
+2011,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,3
+2011,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Expat,وافد,Female,انثي,2
+2011,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Female,انثي,1
+2011,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,1
+2011,Fujairah,الفجيرة,"25.1288° N, 56.3265° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,3
+2011,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,2
+2011,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,1
+2011,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,5
+2011,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,1
+2011,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,2
+2011,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,3
+2011,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,1
+2011,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,1
+2011,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,1
+2011,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,1
+2011,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Male,ذكر,1
+2011,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Expat,وافد,Male,ذكر,1
+2011,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,3
+2011,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,2
+2011,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,4
+2011,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,3
+2011,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,4
+2011,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,1
+2011,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Leukaemia,سرطان الدم,Expat,وافد,Female,انثي,1
+2011,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,1
+2011,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,1
+2011,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,1
+2011,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,2
+2011,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,1
+2011,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,1
+2011,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,2
+2011,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,2
+2011,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,2
+2011,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,7
+2011,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,4
+2011,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,15
+2011,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,8
+2011,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,1
+2011,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,1
+2011,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,1
+2011,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,1
+2012,Ajman,عجمان,"25.4052° N, 55.5136° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,1
+2012,Ajman,عجمان,"25.4052° N, 55.5136° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,5
+2012,Ajman,عجمان,"25.4052° N, 55.5136° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,1
+2012,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,2
+2012,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,2
+2012,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,6
+2012,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,3
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,2
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Female,انثي,2
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,3
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,3
+2012,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,3
+2012,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,4
+2012,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,5
+2012,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,3
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Male,ذكر,1
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Female,انثي,1
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Expat,وافد,Female,انثي,1
+2012,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,8
+2012,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,4
+2012,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,12
+2012,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,3
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,7
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,17
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,29
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,23
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,30
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,19
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Citizen,مواطن,Male,ذكر,1
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Citizen,مواطن,Female,انثي,1
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,2
+2012,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Expat,وافد,Female,انثي,1
+2012,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,2
+2012,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,1
+2012,Fujairah,الفجيرة,"25.1288° N, 56.3265° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,2
+2012,Fujairah,الفجيرة,"25.1288° N, 56.3265° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,3
+2012,Fujairah,الفجيرة,"25.1288° N, 56.3265° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,1
+2012,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,1
+2012,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,2
+2012,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,4
+2012,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,3
+2012,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,3
+2012,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,1
+2012,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,1
+2012,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,1
+2012,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,1
+2012,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,2
+2012,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Male,ذكر,2
+2012,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,3
+2012,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,2
+2012,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,1
+2012,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Citizen,مواطن,Female,انثي,1
+2012,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,1
+2012,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,4
+2012,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,4
+2012,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,1
+2012,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Leukaemia,سرطان الدم,Citizen,مواطن,Female,انثي,2
+2012,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,1
+2012,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Leukaemia,سرطان الدم,Expat,وافد,Female,انثي,1
+2012,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,3
+2012,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,2
+2012,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,1
+2012,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,2
+2012,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,5
+2012,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,1
+2012,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,5
+2012,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,2
+2012,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,3
+2012,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,4
+2012,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,3
+2012,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,4
+2012,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,12
+2012,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,11
+2012,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,4
+2012,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,1
+2012,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,1
+2012,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,2
+2012,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,2
+2012,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,1
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,2
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,1
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,1
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,1
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,2
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Expat,وافد,Male,ذكر,1
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,1
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,1
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,1
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,1
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,6
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,4
+2013,Ajman,عجمان,"25.4052° N, 55.5136° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,1
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,4
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Female,انثي,4
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,2
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,2
+2013,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,11
+2013,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,3
+2013,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,8
+2013,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,5
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Male,ذكر,5
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Female,انثي,1
+2013,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,5
+2013,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,3
+2013,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,12
+2013,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,2
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,13
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,21
+2013,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Citizen,مواطن,Female,انثي,5
+2013,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Expat,وافد,Female,انثي,1
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,28
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,25
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,62
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,49
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Citizen,مواطن,Male,ذكر,1
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Citizen,مواطن,Female,انثي,1
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,1
+2013,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Expat,وافد,Female,انثي,1
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,4
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,1
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,2
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,1
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Citizen,مواطن,Female,انثي,1
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,3
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,4
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,1
+2013,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,2
+2013,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,3
+2013,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Female,انثي,1
+2013,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,1
+2013,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,3
+2013,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,2
+2013,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,2
+2013,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Expat,وافد,Male,ذكر,1
+2013,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Expat,وافد,Female,انثي,1
+2013,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,1
+2013,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,2
+2013,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,1
+2013,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,4
+2013,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Citizen,مواطن,Female,انثي,1
+2013,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,7
+2013,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,1
+2013,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,2
+2013,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,2
+2013,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Leukaemia,سرطان الدم,Citizen,مواطن,Female,انثي,1
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,2
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,1
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,1
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,1
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,2
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,1
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,6
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,2
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,2
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,2
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,9
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,5
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,16
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,8
+2013,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Leukaemia,سرطان الدم,Expat,وافد,Female,انثي,1
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,1
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,1
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,1
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,1
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,1
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,1
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,1
+2013,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Leukaemia,سرطان الدم,Citizen,مواطن,Female,انثي,1
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,1
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,1
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,2
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,1
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,4
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,3
+2014,Ajman,عجمان,"25.4052° N, 55.5136° E",Leukaemia,سرطان الدم,Citizen,مواطن,Female,انثي,1
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,4
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Female,انثي,3
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,1
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,4
+2014,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,3
+2014,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,1
+2014,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,2
+2014,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,3
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Expat,وافد,Male,ذكر,1
+2014,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,9
+2014,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,3
+2014,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,8
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,9
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,15
+2014,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Citizen,مواطن,Female,انثي,1
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,33
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,20
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,54
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,43
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Citizen,مواطن,Female,انثي,1
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,1
+2014,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Expat,وافد,Female,انثي,1
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,1
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,2
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,1
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,2
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,1
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,1
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Citizen,مواطن,Female,انثي,1
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,4
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,1
+2014,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,1
+2014,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,1
+2014,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,1
+2014,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,1
+2014,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,2
+2014,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,2
+2014,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,1
+2014,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Expat,وافد,Male,ذكر,1
+2014,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,1
+2014,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,2
+2014,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,2
+2014,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Expat,وافد,Female,انثي,1
+2014,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,5
+2014,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,3
+2014,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,5
+2014,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,1
+2014,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Leukaemia,سرطان الدم,Citizen,مواطن,Female,انثي,1
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,2
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Female,انثي,2
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,1
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,1
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,2
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,3
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,3
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,1
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,1
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,1
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,6
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,5
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,5
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,17
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,12
+2014,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,1
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,1
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,1
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,1
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,1
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Citizen,مواطن,Female,انثي,1
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,2
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,1
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,2
+2014,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Leukaemia,سرطان الدم,Citizen,مواطن,Female,انثي,1
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,6
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,9
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,6
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,7
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,8
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,15
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,10
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Male,ذكر,2
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Female,انثي,1
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Expat,وافد,Male,ذكر,5
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Expat,وافد,Female,انثي,1
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,14
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,5
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,35
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,6
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,18
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,34
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Citizen,مواطن,Female,انثي,3
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Expat,وافد,Female,انثي,8
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,57
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,13
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,87
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,38
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Leukaemia,سرطان الدم,Citizen,مواطن,Male,ذكر,12
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Leukaemia,سرطان الدم,Citizen,مواطن,Female,انثي,5
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,11
+2015,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Leukaemia,سرطان الدم,Expat,وافد,Female,انثي,11
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,1
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,1
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,1
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,1
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,1
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,3
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,2
+2015,Ajman,عجمان,"25.4052° N, 55.5136° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,1
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,1
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Female,انثي,1
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,2
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,6
+2015,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,2
+2015,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,2
+2015,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,6
+2015,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,7
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Male,ذكر,1
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Expat,وافد,Male,ذكر,3
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Expat,وافد,Female,انثي,1
+2015,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,6
+2015,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,4
+2015,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,9
+2015,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,5
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,10
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Male,ذكر,1
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,28
+2015,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Citizen,مواطن,Female,انثي,1
+2015,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Expat,وافد,Female,انثي,4
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,34
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,20
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,70
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,38
+2015,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,4
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Female,انثي,1
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,1
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,1
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,3
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,1
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,1
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,1
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,1
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,3
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,9
+2015,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,4
+2015,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Female,انثي,1
+2015,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,2
+2015,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,1
+2015,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,2
+2015,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,1
+2015,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,1
+2015,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Male,ذكر,3
+2015,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Expat,وافد,Male,ذكر,2
+2015,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,1
+2015,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,1
+2015,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,3
+2015,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,6
+2015,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Citizen,مواطن,Female,انثي,1
+2015,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,7
+2015,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,4
+2015,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,7
+2015,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,6
+2015,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Leukaemia,سرطان الدم,Citizen,مواطن,Male,ذكر,1
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,3
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Female,انثي,1
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,1
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,1
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,3
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,2
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,4
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,1
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,4
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,2
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,3
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,8
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Citizen,مواطن,Female,انثي,1
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,10
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,3
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,16
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,11
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Leukaemia,سرطان الدم,Citizen,مواطن,Male,ذكر,2
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,5
+2015,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Leukaemia,سرطان الدم,Expat,وافد,Female,انثي,1
+2015,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,1
+2015,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,1
+2015,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,1
+2015,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,2
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,5
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Female,انثي,3
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,11
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,5
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,9
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,5
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,9
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,7
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Male,ذكر,2
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Expat,وافد,Male,ذكر,2
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Expat,وافد,Female,انثي,1
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,10
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,2
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,24
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,5
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,17
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,34
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Citizen,مواطن,Female,انثي,4
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Expat,وافد,Female,انثي,9
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,45
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,36
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,75
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,60
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Leukaemia,سرطان الدم,Citizen,مواطن,Male,ذكر,6
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Leukaemia,سرطان الدم,Citizen,مواطن,Female,انثي,7
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,22
+2016,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Leukaemia,سرطان الدم,Expat,وافد,Female,انثي,6
+2016,Ajman,عجمان,"25.4052° N, 55.5136° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,1
+2016,Ajman,عجمان,"25.4052° N, 55.5136° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,3
+2016,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,1
+2016,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,1
+2016,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,2
+2016,Ajman,عجمان,"25.4052° N, 55.5136° E",Leukaemia,سرطان الدم,Expat,وافد,Female,انثي,1
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,2
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Female,انثي,2
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,4
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,8
+2016,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,6
+2016,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,3
+2016,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,10
+2016,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,2
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Male,ذكر,1
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Female,انثي,3
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Expat,وافد,Male,ذكر,1
+2016,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,13
+2016,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,5
+2016,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,9
+2016,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,5
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,10
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,25
+2016,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Citizen,مواطن,Female,انثي,1
+2016,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Expat,وافد,Female,انثي,2
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,28
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,22
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,60
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,32
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Citizen,مواطن,Male,ذكر,3
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,5
+2016,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Expat,وافد,Female,انثي,6
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,1
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,1
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,1
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,1
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,2
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Expat,وافد,Female,انثي,1
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,6
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,1
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,3
+2016,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Leukaemia,سرطان الدم,Expat,وافد,Female,انثي,1
+2016,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Male,ذكر,2
+2016,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,4
+2016,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,5
+2016,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,3
+2016,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Leukaemia,سرطان الدم,Citizen,مواطن,Female,انثي,1
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,2
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Female,انثي,2
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,2
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,1
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,3
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,2
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Female,انثي,1
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,1
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,2
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,4
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,1
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,5
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,5
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Citizen,مواطن,Female,انثي,1
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Expat,وافد,Female,انثي,1
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,10
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,6
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,17
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,8
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Leukaemia,سرطان الدم,Citizen,مواطن,Male,ذكر,1
+2016,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,3
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,1
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,1
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,1
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,1
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,1
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,1
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,2
+2016,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Leukaemia,سرطان الدم,Citizen,مواطن,Female,انثي,1
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,5
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Female,انثي,4
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,11
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,4
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,8
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,8
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,27
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,8
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Male,ذكر,1
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Female,انثي,2
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Expat,وافد,Male,ذكر,3
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,10
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,7
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,18
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,8
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neaplasm of Breast,ورم خبيث بثدى ,Citizen,مواطن,Male,ذكر,1
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neaplasm of Breast,ورم خبيث بثدى ,Citizen,مواطن,Female,انثي,18
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neaplasm of Breast,ورم خبيث بثدى ,Expat,وافد,Female,انثي,38
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Citizen,مواطن,Female,انثي,2
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Expat,وافد,Female,انثي,7
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,65
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,43
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,104
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,63
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Leukaemia,سرطان الدم,Citizen,مواطن,Male,ذكر,5
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Leukaemia,سرطان الدم,Citizen,مواطن,Female,انثي,8
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,11
+2017,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Leukaemia,سرطان الدم,Expat,وافد,Female,انثي,8
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,1
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,1
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E",Malignant Neaplasm of Breast,ورم خبيث بثدى ,Expat,وافد,Female,انثي,1
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,2
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,3
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,3
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,1
+2017,Ajman,عجمان,"25.4052° N, 55.5136° E",Leukaemia,سرطان الدم,Expat,وافد,Female,انثي,1
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,5
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Female,انثي,1
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,6
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,4
+2017,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,10
+2017,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,3
+2017,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,13
+2017,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,4
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Male,ذكر,3
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Expat,وافد,Male,ذكر,3
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Expat,وافد,Female,انثي,2
+2017,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,10
+2017,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,1
+2017,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,14
+2017,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,5
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neaplasm of Breast,ورم خبيث بثدى ,Citizen,مواطن,Female,انثي,10
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neaplasm of Breast,ورم خبيث بثدى ,Expat,وافد,Male,ذكر,1
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neaplasm of Breast,ورم خبيث بثدى ,Expat,وافد,Female,انثي,26
+2017,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Citizen,مواطن,Female,انثي,3
+2017,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Expat,وافد,Female,انثي,2
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,29
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,23
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,69
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,38
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Citizen,مواطن,Male,ذكر,1
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,6
+2017,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Expat,وافد,Female,انثي,4
+2017,Fujairah,الفجيرة,"25.1288° N, 56.3265° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,1
+2017,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,9
+2017,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,1
+2017,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,2
+2017,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,3
+2017,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,1
+2017,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,2
+2017,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,1
+2017,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Male,ذكر,1
+2017,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neaplasm of Breast,ورم خبيث بثدى ,Citizen,مواطن,Female,انثي,5
+2017,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neaplasm of Breast,ورم خبيث بثدى ,Expat,وافد,Female,انثي,1
+2017,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Citizen,مواطن,Female,انثي,1
+2017,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,14
+2017,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,11
+2017,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,3
+2017,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,4
+2017,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Leukaemia,سرطان الدم,Citizen,مواطن,Male,ذكر,1
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,1
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Female,انثي,2
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,1
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,5
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,2
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,3
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,2
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,6
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Expat,وافد,Male,ذكر,1
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,3
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,1
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neaplasm of Breast,ورم خبيث بثدى ,Citizen,مواطن,Female,انثي,1
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neaplasm of Breast,ورم خبيث بثدى ,Expat,وافد,Male,ذكر,1
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neaplasm of Breast,ورم خبيث بثدى ,Expat,وافد,Female,انثي,7
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Citizen,مواطن,Female,انثي,1
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Expat,وافد,Female,انثي,2
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,6
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,10
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,18
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,7
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Leukaemia,سرطان الدم,Citizen,مواطن,Female,انثي,1
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,2
+2017,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Leukaemia,سرطان الدم,Expat,وافد,Female,انثي,3
+2017,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,1
+2017,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,1
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,5
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Female,انثي,3
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,2
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,6
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,9
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,11
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,18
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,13
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Male,ذكر,2
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Female,انثي,2
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Expat,وافد,Male,ذكر,5
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Expat,وافد,Female,انثي,4
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,18
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,3
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,21
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,9
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Male,ذكر,1
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,16
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Male,ذكر,1
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,42
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Citizen,مواطن,Female,انثي,1
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Expat,وافد,Female,انثي,9
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,63
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,38
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,129
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,68
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Leukaemia,سرطان الدم,Citizen,مواطن,Male,ذكر,6
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Leukaemia,سرطان الدم,Citizen,مواطن,Female,انثي,4
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,23
+2018,Abu Dhabi,أبو ظبي,"24.4539° N, 54.3773° E",Leukaemia,سرطان الدم,Expat,وافد,Female,انثي,8
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,1
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,1
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,2
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,1
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,2
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Expat,وافد,Female,انثي,1
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,5
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,1
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,1
+2018,Ajman,عجمان,"25.4052° N, 55.5136° E",Leukaemia,سرطان الدم,Expat,وافد,Female,انثي,1
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Male,ذكر,5
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,6
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,3
+2018,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,5
+2018,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,2
+2018,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,11
+2018,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,3
+2018,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,4
+2018,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,3
+2018,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,7
+2018,Dubai,دبي,"25.2048° N, 55.2708° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,5
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,15
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,14
+2018,Dubai,دبي,"25.2048° N, 55.2708° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Expat,وافد,Female,انثي,6
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,29
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,23
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,57
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,54
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Citizen,مواطن,Male,ذكر,1
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Citizen,مواطن,Female,انثي,1
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,7
+2018,Dubai,دبي,"25.2048° N, 55.2708° E",Leukaemia,سرطان الدم,Expat,وافد,Female,انثي,4
+2018,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Female,انثي,1
+2018,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,1
+2018,Fujairah,الفجيرة,"25.1288° N, 56.3265° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,1
+2018,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,3
+2018,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,2
+2018,Fujairah,الفجيرة,"25.1288° N, 56.3265° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,1
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Female,انثي,4
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,1
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,2
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,2
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Female,انثي,3
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,2
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,1
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neoplasm Of Rectum,ورم خبيث بالمستقيم أو الشرج,Citizen,مواطن,Male,ذكر,2
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,8
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Female,انثي,3
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,4
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,3
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,9
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,3
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Citizen,مواطن,Female,انثي,4
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Expat,وافد,Female,انثي,3
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,18
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,12
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,9
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,3
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Leukaemia,سرطان الدم,Citizen,مواطن,Male,ذكر,1
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Leukaemia,سرطان الدم,Citizen,مواطن,Female,انثي,4
+2018,Ras Al Khaimah,رأس الخيمة,"25.8007° N, 55.9762° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,1
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Male,ذكر,1
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Expat,وافد,Female,انثي,1
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,3
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Male,ذكر,7
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Expat,وافد,Female,انثي,1
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Citizen,مواطن,Male,ذكر,4
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Male,ذكر,2
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E","Maligant Neaplasm of Ttrachea, Bronchea & Lung",ورم خبيث بالقصبة الهوائية أو الشعب أو الرئة,Expat,وافد,Female,انثي,2
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,3
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Male,ذكر,1
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Expat,وافد,Female,انثي,8
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E", Malignant Neaplasm of Cervix Uteri,ورم خبيث بعنق الرحم,Expat,وافد,Female,انثي,2
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Male,ذكر,13
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,4
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,14
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,15
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Leukaemia,سرطان الدم,Expat,وافد,Male,ذكر,8
+2018,Sharjah,الشارقة,"25.0754° N, 55.7578° E",Leukaemia,سرطان الدم,Expat,وافد,Female,انثي,3
+2018,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Malignant Neoplasm Of Stomach,ورم خبيث بالمعدة,Citizen,مواطن,Female,انثي,1
+2018,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E", Malignant Neoplasm Of Colon,ورم خبيث بالقولون,Citizen,مواطن,Male,ذكر,1
+2018,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Malignant Neaplasm of Female Breast,ورم خبيث بثدى الأنثى,Citizen,مواطن,Female,انثي,1
+2018,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Citizen,مواطن,Female,انثي,2
+2018,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Male,ذكر,1
+2018,Umm Al Quwain,أم القيوين,"25.5426° N, 55.5475° E",Other Malignant Neaplasm,أورام خبيثة أخرى,Expat,وافد,Female,انثي,1

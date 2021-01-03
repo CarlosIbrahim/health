@@ -169,7 +169,7 @@ if password == 'MsBa%42%':
                 death_2002_2008_total_cause_top_bar.set(xlabel='Cause of Death',ylabel='Total Deaths')
                 death_2002_2008_total_cause_top_bar.set_title('Total Number of Deaths per Cause',y=1.02)
                 
-                .xticks(rotation=70)
+                death_2002_2008_total_cause_top_bar.xticks(rotation=70)
                 col3.pyplot()
 
 

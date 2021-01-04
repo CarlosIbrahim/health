@@ -112,7 +112,7 @@ if password == '123456':
     button=st.sidebar.radio('Select which Analysis Date you want to See:',
                                 ('Info Page', 'Dates Between 2002 and 2008 Pages', 'Dates Between 2011 and 2018 Pages'))
 
-    if button == 'Info':
+    if button == 'Info Page':
 
         st.title('Health Care Analysis in the United Arab Emirates:')
         col1, col2 = st.beta_columns(2)

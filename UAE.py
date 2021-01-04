@@ -124,7 +124,7 @@ if password == '123456':
 
         st.set_option('deprecation.showPyplotGlobalUse', False)
 
-    elif button == 'Dates Between 2002 and 2008':
+    elif button == 'Dates Between 2002 and 2008 Pages':
 
         #add a second radio button to filter based on the different analysis in this date
         button1=st.sidebar.radio('Select which Analysis you want to see:',
@@ -362,7 +362,7 @@ if password == '123456':
 
 
 
-    elif button == 'Dates Between 2011 and 2018':
+    elif button == 'Dates Between 2011 and 2018 Pages':
 
         button3=st.sidebar.radio('Select which Analysis you want to see:',
                                     ('Cancer Analysis (Cases, Death, Cause)','Analysis of the Healthcare system in UAE'))

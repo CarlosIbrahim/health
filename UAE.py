@@ -4,6 +4,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
+from PIL import Image
 
 st.set_page_config(layout="wide")
 
@@ -91,6 +92,11 @@ hospitals = hospitals.rename(columns={'Year':'year','Emirate En':'district','Sec
 hospitals = hospitals.dropna(subset=['beds'])
 hospitals = hospitals.dropna(subset=['hospitals'])
 
+image = Image.open('image.jpg')
+image1 = Image.open('clay-banks-_Jb1TF3kvsA-unsplash.jpg')
+
+
+
 
 
 
@@ -99,15 +105,26 @@ password = st.sidebar.text_input("Enter the password please", type="password")
 
 if password == '123456':
 
-    st.title('Health Care Analysis in the United Arab Emirates:')
 
-    st.set_option('deprecation.showPyplotGlobalUse', False)
+
 
     #add a radio buttons options on the sidebar for the user to select what he wants to see
     button=st.sidebar.radio('Select which Analysis Date you want to See:',
-                                ('Dates Between 2002 and 2008', 'Dates Between 2011 and 2018'))
+                                ('Info Page', 'Dates Between 2002 and 2008 Pages', 'Dates Between 2011 and 2018 Pages'))
 
-    if button == 'Dates Between 2002 and 2008':
+    if button == 'Info':
+
+        st.title('Health Care Analysis in the United Arab Emirates:')
+        col1, col2 = st.beta_columns(2)
+
+        col1.image(image, use_column_width=True)
+
+
+        col2.image(image1, use_column_width=True)
+
+        st.set_option('deprecation.showPyplotGlobalUse', False)
+
+    elif button == 'Dates Between 2002 and 2008':
 
         #add a second radio button to filter based on the different analysis in this date
         button1=st.sidebar.radio('Select which Analysis you want to see:',
@@ -215,6 +232,8 @@ if password == '123456':
                 col1.write("  ")
                 col1.write("  ")
                 col1.write("  ")
+
+                col1.empty()
 
 
                 col2.subheader("Top Causes of Deaths for Men:")
